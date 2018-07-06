@@ -1,0 +1,527 @@
+
+
+<!DOCTYPE html >
+<html class="no-js" dir="ltr" lang="en-ZA">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><link rel="shortcut icon" href="/_catalogs/masterpage/TUT/favicon.ico" /><title>
+	
+Events - 
+TUT Events
+
+</title><link rel="stylesheet" type="text/css" href="/_layouts/15/1033/styles/Themable/corev15.css?rev=i237P0%2BWmCDIsNnTvKWmyg%3D%3DTAG0"/>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700"/>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:900,700"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/asset/css/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/responsive.min.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/animate.min.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/colors/red.min.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/revolution/css/settings.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/revolution/css/layers.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/revolution/css/navigation.css"/>
+<link rel="stylesheet" type="text/css" href="/_catalogs/masterpage/TUT/css/tut.min.css"/>
+<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=gqPmYXyjv53NBLHkOz7YSA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/style%20library/scripts/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=0eDV9K-d15i0uYWginQEs8NpKnRBNuHccRgb6FBJkYCe2cQYOTcgdUArGVWgkdWRhjiwF7DjeJ9i0zx1Ec-eSzEyVHNuIp-rtItn5mM9EQFBAQ2acIJz72f632DUvL1mx0F6Mz0-hVj1iaPASg4bvFzvx1-QUFp4A_zIroT1oSoeE2KfMnYVhUfpbazzYqoF0&amp;t=3d6efc1f"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=CIQyDFmRXo2bPGxA1OM3tQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=2zrPGEuCBZulQIqWeaePzskHPYbqDryfhXBnuVauhVwk5Lq4D8MKpvNtuPNGLd08v90ha3OO4L7at_EC5_ad_YbfSEGsTcnGT2iZMRCVjtMT6IO2-xZTn3ngxYEa-PAMgMt5owCwVkWPSjrUwa6LRjrCKC701J-HBRCfBbsj849LPfI3YV4TSbTNUhrmzVNg0&amp;t=3d6efc1f"></script>
+<script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=k%2FSaOdWtcHDDvsb%2FUFykOA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1033/sp.res.js?rev=MbB92HT8biYuFa%2B1vTMilA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.runtime.js?rev=dPgEqukeZCpZkQdEaSjJhg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.js?rev=wxPZ5ITbrPA3b8m%2FkAmpFg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=OTgfB46B2zuZoXXKhR66ow%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ui.dialog.js?rev=j8y5qIMHSOJ6RVE0iqvSwA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/core.js?rev=WLFAFduVL7yR0QGogyehCw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.core.js?rev=x2gl91LT7ga%2BSe4MDJhdKw%3D%3DTAG0"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=\u00252BRRfOnYW0VaAgSoCgcIN8Q\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=z\u00252BMjeh8z5rXsuw\u00252BlbXqhqQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=tkFViPlM71PNRzbQ18DJYg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=8YJvsp8ZsolRz3G2vlOPEA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=paRgrS0VBlNzJJEwkn9xeA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=ODoHUBVPgno\u00252FGN95X1mxVA\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=q\u00252B4EPmOiPLYRHUToyKe5ow\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=GNhMVgeApbicyWAtsaRjRg\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ct626oVzgp5aL7cAOPQOAQ\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fie55up.js?rev=t70Qt43P24NP\u00252B7w3bHFGFQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=6tHUa1YfvevjB28g0czFFg\u00253D\u00253DTAG0");RegisterSodDep("inplview", "clienttemplates.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=SgGDxLrCYyc\u00252FAXpfm9huLA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("quicklaunch.js", "\u002f_layouts\u002f15\u002fquicklaunch.js?rev=r46YgYL1c\u00252BEPgXilGbF\u00252Bmw\u00253D\u00253DTAG0");RegisterSodDep("quicklaunch.js", "dragdrop.js");</script>
+<link type="text/xml" rel="alternate" href="/s-events/_vti_bin/spsdisco.aspx" />
+    
+    
+    <link rel="canonical" href="https://www.tut.ac.za:443/whats-on/events" /><meta name="google-site-verification" content="qBHb8n2J9pTmyWBXlA3v_RIj9YJUYNZsaKjXZFt6zjQ" />
+    
+    
+<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<script type="text/javascript">
+var tutDateTimeNow="2018-07-06T18:25:11Z";
+var tutDateYear=2018;
+var tutDateMonth=7;
+var tutDateDay=6;
+var tutDateHour=18;
+var tutDateMinute=25;
+</script>
+
+
+<!-- LOAD JQUERY LIBRARY -->
+
+<!-- LOADING FONTS AND ICONS -->
+
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/js/modernizrr.js">//<![CDATA[
+//]]></script>
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/asset/js/bootstrap.min.js">//<![CDATA[
+//]]></script>
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/js/owl.carousel.min.js">//<![CDATA[
+//]]></script>
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/revolution/js/jquery.themepunch.tools.min.js">//<![CDATA[
+//]]></script>
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/revolution/js/jquery.themepunch.revolution.min.js">//<![CDATA[
+//]]></script>
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS -->
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/revolution/js/extensions/revolution.extension.migration.min.js">//<![CDATA[
+//]]></script>
+<!--[if IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->        
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108380564-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108380564-1');
+</script>
+</head>
+<body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
+<span id="DeltaSPWebPartManager">
+	
+</span>
+
+<form method="post" action="./events?TermStoreId=9b2b397c-bd7a-4f8b-abe4-0a2cf8e9273c&amp;TermSetId=267e6502-f768-4615-ba5b-d9e3ff951739&amp;TermId=4cba9d39-61e9-412a-b0f4-261a66328ff5" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xAF2D42519D08CB5C242AEAB1C84118B91A440ED4F55AD74FE815A4CD001DFAA960B4359E57414F690ADFDBE7A30A54E627481E95F5C49957AE991B4EAC9C89F2,06 Jul 2018 16:25:11 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBgIJD2QWAmYPZBYCAgMPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTYuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhgPZBYCAgMPZBYCZg9kFgJmDzwrAAYAZAIcD2QWAmYPFgIeBFRleHQFvAEKPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgp2YXIgdHV0RGF0ZVRpbWVOb3c9IjIwMTgtMDctMDZUMTg6MjU6MTFaIjsKdmFyIHR1dERhdGVZZWFyPTIwMTg7CnZhciB0dXREYXRlTW9udGg9NzsKdmFyIHR1dERhdGVEYXk9NjsKdmFyIHR1dERhdGVIb3VyPTE4Owp2YXIgdHV0RGF0ZU1pbnV0ZT0yNTsKPC9zY3JpcHQ+CmQCCA9kFgoCBg9kFgICAg9kFgICAQ9kFgICAw8WAh4HVmlzaWJsZWgWAmYPZBYEAgMPZBYGAgEPFgIfAmhkAgMPFgIfAmhkAgUPFgIfAmhkAgQPDxYCHglBY2Nlc3NLZXkFAS9kZAIKD2QWAgIBD2QWAgICD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAILFhYCAQ9kFgJmD2QWBGYPZBYCZg8VAgUvaG9tZQRIb21lZAICDxYCHwJoFgRmDxUBBEhvbWVkAgEPFgIfBGZkAgIPZBYCZg9kFgRmDxYCHwJoFgJmDxUCAAlGYWN1bHRpZXNkAgIPZBYEZg8VAQlGYWN1bHRpZXNkAgEPFgIfBAIKFhRmD2QWAmYPFQI2L3N0dWR5LWF0LXR1dC9pLXdhbnQtdG8tc3R1ZHkvd2hhdC10by1zdHVkeS9wcm9zcGVjdHVzEVdoYXQgY2FuIEkgc3R1ZHk/ZAIBD2QWAmYPFQI3L2ZhY3VsdGllcy9tYW5hZ2VtZW50L2RlcGFydG1lbnRzL2J1c2luZXNzLXNjaG9vbC9hYm91dA9CdXNpbmVzcyBTY2hvb2xkAgIPZBYCZg8VAhovZmFjdWx0aWVzL2Vjb25vbWljcy9hYm91dBVFY29ub21pY3MgYW5kIEZpbmFuY2VkAgMPZBYCZg8VAhwvZmFjdWx0aWVzL2VuZ2luZWVyaW5nL2Fib3V0JUVuZ2luZWVyaW5nIGFuZCB0aGUgQnVpbHQgRW52aXJvbm1lbnRkAgQPZBYCZg8VAhsvZmFjdWx0aWVzL2h1bWFuaXRpZXMvYWJvdXQKSHVtYW5pdGllc2QCBQ9kFgJmDxUCFC9mYWN1bHRpZXMvaWN0L2Fib3V0A0lDVGQCBg9kFgJmDxUCGy9mYWN1bHRpZXMvbWFuYWdlbWVudC9hYm91dBNNYW5hZ2VtZW50IFNjaWVuY2VzZAIHD2QWAmYPFQIYL2ZhY3VsdGllcy9zY2llbmNlL2Fib3V0B1NjaWVuY2VkAggPZBYCZg8VAhkvZmFjdWx0aWVzL3RoZS1hcnRzL2Fib3V0CFRoZSBBcnRzZAIJD2QWAmYPFQIVL290aGVyL2NhbXB1c2VzL2Fib3V0CENhbXB1c2VzZAIDD2QWAmYPZBYEZg9kFgJmDxUCFS9vdGhlci9jYW1wdXNlcy9hYm91dAhDYW1wdXNlc2QCAg8WAh8CaBYEZg8VAQhDYW1wdXNlc2QCAQ8WAh8EZmQCBA9kFgJmD2QWBGYPFgIfAmgWAmYPFQIJaHR0cDovL2EvDFN0dWR5IGF0IFRVVGQCAg9kFgRmDxUBDFN0dWR5IGF0IFRVVGQCAQ8WAh8EAgsWFmYPZBYCZg8VAikvc3R1ZHktYXQtdHV0L2ktd2FudC10by1zdHVkeS9wcm9zcGVjdGl2ZQ9JIHdhbnQgdG8gc3R1ZHlkAgEPZBYCZg8VAiovc3R1ZHktYXQtdHV0L2ktYW0tYS1zdHVkZW50L3VuZGVyZ3JhZHVhdGUOSSBhbSBhIHN0dWRlbnRkAgIPZBYCZg8VAi4vc3R1ZHktYXQtdHV0L2ktYW0tYS1wb3N0Z3JhZHVhdGUvUG9zdGdyYWR1YXRlE0kgYW0gYSBwb3N0Z3JhZHVhdGVkAgMPZBYCZg8VAhgvcm5pL3Bvc3QtZ3JhZHVhdGUvYWJvdXQVSSBhbSBhIHBvc3QgZG9jdG9yYXRlZAIED2QWAmYPFQIpL3N0dWR5LWF0LXR1dC9pbnRlcm5hdGlvbmFsLXN0dWRlbnQvYWJvdXQdSSBhbSBhbiBJbnRlcm5hdGlvbmFsIFN0dWRlbnRkAgUPZBYCZg8VAhEvb3RoZXIvU0xQcy9hYm91dBlTaG9ydCBMZWFybmluZyBQcm9ncmFtbWVzZAIGD2QWAmYPFQILL2hlZHMvYWJvdXQpQ3VycmljdWx1bSBJbm5vdmF0aW9uIGFuZCBTdHVkZW50IFN1Y2Nlc3NkAgcPZBYCZg8VAgsvc2FlZC9hYm91dAxTdHVkZW50IExpZmVkAggPZBYCZg8VAhIvc2FlZC9zcG9ydHMvYWJvdXQLU3BvcnQgQCBUVVRkAgkPZBYCZg8VAhAvc2FlZC9hcmxjL2Fib3V0DVdoZXJlIHRvIHN0YXlkAgoPZBYCZg8VAjMvZmFjdWx0aWVzL2h1bWFuaXRpZXMvZGVwYXJ0bWVudHMvZGlzdGFuY2UtZWQvYWJvdXQSRGlzdGFuY2UgRWR1Y2F0aW9uZAIFD2QWAmYPZBYEZg9kFgJmDxUCCi9ybmkvYWJvdXQXUmVzZWFyY2ggYW5kIElubm92YXRpb25kAgIPFgIfAmgWBGYPFQEXUmVzZWFyY2ggYW5kIElubm92YXRpb25kAgEPFgIfBGZkAgYPZBYCZg9kFgRmD2QWAmYPFQIRL2FsdW1uaS10dXQvYWJvdXQMQWx1bW5pIEAgVFVUZAICDxYCHwJoFgRmDxUBDEFsdW1uaSBAIFRVVGQCAQ8WAh8EZmQCBw9kFgJmD2QWBGYPZBYCZg8VAhAvY29tbXVuaXR5L2Fib3V0FENvbW11bml0eSBFbmdhZ2VtZW50ZAICDxYCHwJoFgRmDxUBFENvbW11bml0eSBFbmdhZ2VtZW50ZAIBDxYCHwRmZAIID2QWAmYPZBYEZg9kFgJmDxUCDy9pbmR1c3RyeS9hYm91dAhJbmR1c3RyeWQCAg8WAh8CaBYEZg8VAQhJbmR1c3RyeWQCAQ8WAh8EZmQCCQ9kFgJmD2QWBGYPZBYCZg8VAhQvbmV3cy1hbmQtcHJlc3MvbmV3cw5OZXdzIGFuZCBQcmVzc2QCAg8WAh8CaBYEZg8VAQ5OZXdzIGFuZCBQcmVzc2QCAQ8WAh8EZmQCCg9kFgJmD2QWBGYPFgIfAmgWAmYPFQIQL3doYXRzLW9uL2V2ZW50cwlXaGF0J3MgT25kAgIPZBYEZg8VAQlXaGF0J3MgT25kAgEPFgIfBAICFgRmD2QWAmYPFQIuL2ZhY3VsdGllcy90aGUtYXJ0cy9icmV5dGVuYmFjaC10aGVhdHJlL2V2ZW50cxNCcmV5dGVuYmFjaCBUaGVhdHJlZAIBD2QWAmYPFQIQL3doYXRzLW9uL2V2ZW50cwZFdmVudHNkAgsPZBYCZg9kFgRmD2QWAmYPFQILL2NvbnRhY3QtdXMKQ29udGFjdCBVc2QCAg8WAh8CaBYEZg8VAQpDb250YWN0IFVzZAIBDxYCHwRmZAIOD2QWAgICD2QWCAIBD2QWCAIBDxYCHwEFIS9CYW5uZXJJbWFnZXMvZGVmYXVsdHN0YW5kYXJkLmpwZ2QCAw8WAh8BBSgvQmFubmVySW1hZ2VzL193L2RlZmF1bHRzdGFuZGFyZF9qcGcuanBnZAIFDxYCHwEFBDAuMTBkAgcPFgIfAQUKVFVUIEV2ZW50c2QCBQ9kFgICAg8WAh8BBWA8c2NyaXB0IHNyYz0iL19jYXRhbG9ncy9tYXN0ZXJwYWdlL1RVVC9qcy90dXQvc2lkZW1lbnUtYW5vbi5qcyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD5kAgcPZBYCAgEPFgIfAQWVFTxkaXYgY2xhc3M9ImxhdGVzdC1wb3N0cy1jbGFzc2ljIj4KPGRpdiBjbGFzcz0icm93Ij48ZGl2IGNsYXNzPSJuZXdzLXllYXItZGl2Ij5KdW5lIDIwMTg8L2Rpdj48L2Rpdj4KPGRpdiBjbGFzcz0icG9zdC1yb3ciPiAgICA8ZGl2IGNsYXNzPSJsZWZ0LW1ldGEtcG9zdCI+ICAgIDxkaXYgY2xhc3M9InBvc3QtZGF0ZSIgPjxzcGFuIGNsYXNzPSJkYXkiPjA1PC9zcGFuPjxzcGFuIGNsYXNzPSJtb250aCI+SnVuPC9zcGFuPjwvZGl2PiAgICA8L2Rpdj4gICAgPGgzIGNsYXNzPSJwb3N0LXRpdGxlIj48YSBocmVmPSIvd2hhdHMtb24vZXZlbnRzL2V2ZW50P05JRD0yMyI+MjAxOCBSdW5uaW5nIENsdWI8L2E+PC9oMz48dWwgY2xhc3M9InBvc3QtbWV0YSI+ICAgIDxsaT4wNSBKdW5lIDIwMTg8L2xpPiAgICA8bGk+MTkgU2VwdGVtYmVyIDIwMTg8L2xpPjwvdWw+ICAgIDxkaXYgY2xhc3M9InBvc3QtY29udGVudCI+PGEgY2xhc3M9Im5vc3R5bGVsaW5rIiBocmVmPSIvd2hhdHMtb24vZXZlbnRzL2V2ZW50P05JRD0yMyI+MjAxOCBNZW1iZXJzaGlwIE5PVyBPUEVOIDwvYT4gICAgPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0icG9zdC1yb3ciPiAgICA8ZGl2IGNsYXNzPSJsZWZ0LW1ldGEtcG9zdCI+ICAgIDxkaXYgY2xhc3M9InBvc3QtZGF0ZSIgPjxzcGFuIGNsYXNzPSJkYXkiPjI1PC9zcGFuPjxzcGFuIGNsYXNzPSJtb250aCI+SnVuPC9zcGFuPjwvZGl2PiAgICA8L2Rpdj4gICAgPGgzIGNsYXNzPSJwb3N0LXRpdGxlIj48YSBocmVmPSIvd2hhdHMtb24vZXZlbnRzL2V2ZW50P05JRD00MCI+SEVMTE88L2E+PC9oMz48dWwgY2xhc3M9InBvc3QtbWV0YSI+ICAgIDxsaT4yNSBKdW5lIDIwMTg8L2xpPiAgICA8bGk+MTMgSnVseSAyMDE4PC9saT48L3VsPiAgICA8ZGl2IGNsYXNzPSJwb3N0LWNvbnRlbnQiPjxhIGNsYXNzPSJub3N0eWxlbGluayIgaHJlZj0iL3doYXRzLW9uL2V2ZW50cy9ldmVudD9OSUQ9NDAiPkNhbGwgZm9yIHN1Ym1pc3Npb25zPC9hPiAgICA8L2Rpdj48L2Rpdj48ZGl2IGNsYXNzPSJyb3ciPjxkaXYgY2xhc3M9Im5ld3MteWVhci1kaXYiPkp1bHkgMjAxODwvZGl2PjwvZGl2Pgo8ZGl2IGNsYXNzPSJwb3N0LXJvdyI+ICAgIDxkaXYgY2xhc3M9ImxlZnQtbWV0YS1wb3N0Ij4gICAgPGRpdiBjbGFzcz0icG9zdC1kYXRlIiA+PHNwYW4gY2xhc3M9ImRheSI+MDU8L3NwYW4+PHNwYW4gY2xhc3M9Im1vbnRoIj5KdWw8L3NwYW4+PC9kaXY+ICAgIDwvZGl2PiAgICA8aDMgY2xhc3M9InBvc3QtdGl0bGUiPjxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHMvZXZlbnQ/TklEPTQzIj5NYW5kZWxhIERheSAyMDE4PC9hPjwvaDM+PHVsIGNsYXNzPSJwb3N0LW1ldGEiPiAgICA8bGk+MDUgSnVseSAyMDE4PC9saT4gICAgPGxpPjI1IEp1bHkgMjAxODwvbGk+PC91bD4gICAgPGRpdiBjbGFzcz0icG9zdC1jb250ZW50Ij48YSBjbGFzcz0ibm9zdHlsZWxpbmsiIGhyZWY9Ii93aGF0cy1vbi9ldmVudHMvZXZlbnQ/TklEPTQzIj5UQUtFIEFDVElPTiwgSU5TUElSRSBDSEFOR0UsIE1BS0UgRVZFUllEQVkgQSBNQU5ERUxBIERBWSE8L2E+ICAgIDwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9InBvc3Qtcm93Ij4gICAgPGRpdiBjbGFzcz0ibGVmdC1tZXRhLXBvc3QiPiAgICA8ZGl2IGNsYXNzPSJwb3N0LWRhdGUiID48c3BhbiBjbGFzcz0iZGF5Ij4xMDwvc3Bhbj48c3BhbiBjbGFzcz0ibW9udGgiPkp1bDwvc3Bhbj48L2Rpdj4gICAgPC9kaXY+ICAgIDxoMyBjbGFzcz0icG9zdC10aXRsZSI+PGEgaHJlZj0iL3doYXRzLW9uL2V2ZW50cy9ldmVudD9OSUQ9NDEiPkZpbmUgJiBBcHBsaWVkIEFydHMgV2ludGVyIFdvcmtzaG9wIDwvYT48L2gzPjx1bCBjbGFzcz0icG9zdC1tZXRhIj4gICAgPGxpPjEwIEp1bHkgMjAxODwvbGk+ICAgIDxsaT4xMCBKdWx5IDIwMTg8L2xpPjwvdWw+ICAgIDxkaXYgY2xhc3M9InBvc3QtY29udGVudCI+PGEgY2xhc3M9Im5vc3R5bGVsaW5rIiBocmVmPSIvd2hhdHMtb24vZXZlbnRzL2V2ZW50P05JRD00MSI+VGhlIERlcGFydG1lbnQgb2YgRmluZSBhbmQgQXBwbGllZCBBcnRzIHdvdWxkIGxpa2UgdG8gaW52aXRlIHlvdSB0byBhIFdpbnRlciBXb3Jrc2hvcCBpbiB3aGljaCB5b3UgY2FuIGV4cGxvcmUgYSBudW1iZXIgb2YgZGlzY2lwbGluZXMgb2ZmZXJlZCBieSB0aGUgZGVwYXJ0bWVudC4gIDwvYT4gICAgPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0icm93Ij48ZGl2IGNsYXNzPSJuZXdzLXllYXItZGl2Ij5BdWd1c3QgMjAxODwvZGl2PjwvZGl2Pgo8ZGl2IGNsYXNzPSJwb3N0LXJvdyI+ICAgIDxkaXYgY2xhc3M9ImxlZnQtbWV0YS1wb3N0Ij4gICAgPGRpdiBjbGFzcz0icG9zdC1kYXRlIiA+PHNwYW4gY2xhc3M9ImRheSI+MTY8L3NwYW4+PHNwYW4gY2xhc3M9Im1vbnRoIj5BdWc8L3NwYW4+PC9kaXY+ICAgIDwvZGl2PiAgICA8aDMgY2xhc3M9InBvc3QtdGl0bGUiPjxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHMvZXZlbnQ/TklEPTQyIj5Cb29rIExhdW5jaDwvYT48L2gzPjx1bCBjbGFzcz0icG9zdC1tZXRhIj4gICAgPGxpPjE2IEF1Z3VzdCAyMDE4PC9saT4gICAgPGxpPjE2IEF1Z3VzdCAyMDE4PC9saT48L3VsPiAgICA8ZGl2IGNsYXNzPSJwb3N0LWNvbnRlbnQiPjxhIGNsYXNzPSJub3N0eWxlbGluayIgaHJlZj0iL3doYXRzLW9uL2V2ZW50cy9ldmVudD9OSUQ9NDIiPiJUSEUgTEFORCBJUyBPVVJTIjwvYT4gICAgPC9kaXY+PC9kaXY+PC9kaXY+CmQCCQ9kFgICAQ8WAh8BBawCIDxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHM/Q2F0PUFjYWRlbWljIj5BY2FkZW1pYzwvYT4KIDxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHM/Q2F0PUNvbW11bml0eStFbmdhZ2VtZW50Ij5Db21tdW5pdHkgRW5nYWdlbWVudDwvYT4KIDxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHM/Q2F0PVBlcmZvcm1pbmcrQXJ0cyI+UGVyZm9ybWluZyBBcnRzPC9hPgogPGEgaHJlZj0iL3doYXRzLW9uL2V2ZW50cz9DYXQ9U2NpZW5jZSI+U2NpZW5jZTwvYT4KIDxhIGhyZWY9Ii93aGF0cy1vbi9ldmVudHM/Q2F0PVNwb3J0Ij5TcG9ydDwvYT4KZAIQD2QWAmYPFgIfAQWPIDxkaXYgY2xhc3M9ImNvbC1tZC0zIGNvbC14cy0xMiI+PGRpdiBjbGFzcz0iZm9vdGVyLXdpZGdldCB0dXRmLXdpZGdldCI+PGg0PkluZm9ybWF0aW9uIEZvcjxzcGFuIGNsYXNzPSJoZWFkLWxpbmUiPjwvc3Bhbj48L2g0Pjx1bD48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2FsdW1uaS10dXQvYWJvdXQiPkFsdW1uaTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvYXBvL2Fib3V0Ij5Eb25vcnMgJmFtcDsgUHJvamVjdHM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2J1cnNhcmllcy1hbmQtbG9hbnMvYWJvdXQiPkJ1cnNhcmllcyBhbmQgTG9hbnM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL3N0dWR5LWF0LXR1dC9pLXdhbnQtdG8tc3R1ZHkvd2hhdC10by1zdHVkeS9wcm9zcGVjdHVzIj5XaGF0IGNhbiBJIHN0dWR5PzwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvb3RoZXIvcGFyZW50cy9hYm91dCI+UGFyZW50czwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvY2FtL2Fib3V0Ij5NZWRpYTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvb3RoZXIvdG5iL3RlbmRlcnMiPlRlbmRlcnM8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL290aGVyL2ZyYXVkLWhvdGxpbmUvY29udGFjdC11cyI+RnJhdWQgSG90bGluZTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvZ3JhZHVhdGlvbnMvYWJvdXQiPkdyYWR1YXRpb25zPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9zYWVkL2FybGMvYWJvdXQiPldoZXJlIHRvIFN0YXk8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL3JlY3J1aXRtZW50L2Fib3V0Ij5TdHVkZW50IFJlY3J1aXRtZW50PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9vdGhlci9jb252b2NhdGlvbi9hYm91dCI+Q29udm9jYXRpb248L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2NhbS9ncm91cC1ib29raW5ncyI+Q2FtcHVzIFZpc2l0IC0gR3JvdXAgQm9va2luZ3M8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL290aGVyL29tYnVkc21hbi9hYm91dCI+T21idWRzIE9mZmljZTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvaGVkcy9hYm91dCI+Q3VycmljdWx1bSBJbm5vdmF0aW9uIGFuZCBTdHVkZW50IFN1Y2Nlc3M8L2E+PC9saT48L3VsPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImNvbC1tZC0zIGNvbC14cy0xMiI+PGRpdiBjbGFzcz0iZm9vdGVyLXdpZGdldCB0dXRmLXdpZGdldCI+PGg0PkFib3V0IFRVVDxzcGFuIGNsYXNzPSJoZWFkLWxpbmUiPjwvc3Bhbj48L2g0Pjx1bD48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2Fib3V0LXR1dC9jb3VuY2lsIj5Db3VuY2lsPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9hYm91dC10dXQvbWFuYWdlbWVudCI+RXhlY3V0aXZlIE1hbmFnZW1lbnQgQ29tbWl0dGVlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9hYm91dC10dXQvZGVhbnMiPkV4ZWN1dGl2ZSBEZWFuczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvYWJvdXQtdHV0L2NhbXB1cy1yZWN0b3JzIj5DYW1wdXMgUmVjdG9yczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvYWJvdXQtdHV0L21pc3Npb24iPk1pc3Npb24sIHZpc2lvbiBhbmQgdmFsdWVzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9jYW0vYWJvdXQiPkNvcnBvcmF0ZSBBZmZhaXJzIGFuZCBNYXJrZXRpbmc8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL0RvY3VtZW50cy8yMDE4L1RyYW5zZm9ybWF0aW9uLUZyYW1ld29yay5wZGYiPlRVVCBUcmFuc2Zvcm1hdGlvbiBGcmFtZXdvcms8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2Fwby9hYm91dCI+QWR2YW5jZW1lbnQgYW5kIFBhcnRuZXJzaGlwcyBPZmZpY2U8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL3MtY2FtL0RvY3VtZW50cy9UVVQlMjBJbnN0aXR1dGlvbmFsJTIwU3RhdHV0ZS5wZGYiPkluc3RpdHV0aW9uYWwgU3RhdHV0ZSA8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL290aGVyL2JkdS9hYm91dCI+QnVzaW5lc3MgRGV2ZWxvcG1lbnQgVW5pdDwvYT48L2xpPjwvdWw+PGg0PkNhbGVuZGFyIGFuZCBFdmVudHM8c3BhbiBjbGFzcz0iaGVhZC1saW5lIj48L3NwYW4+PC9oND48dWw+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9mYWN1bHRpZXMvdGhlLWFydHMvYnJleXRlbmJhY2gtdGhlYXRyZS9hYm91dCI+QnJleXRlbmJhY2ggVGhlYXRyZTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvd2hhdHMtb24vZXZlbnRzIj5XaGF04oCZcyBPbjwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvcy1yZWdpc3RyYXIvRG9jdW1lbnRzL0NvcmUlMjBDYWxlbmRhci5wZGYiPkFjYWRlbWljIENhbGVuZGFyPC9hPjwvbGk+PC91bD48aDQ+TmV3cyBhbmQgUHJlc3M8c3BhbiBjbGFzcz0iaGVhZC1saW5lIj48L3NwYW4+PC9oND48dWw+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9uZXdzLWFuZC1wcmVzcy9uZXdzIj5OZXdzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9wdWJsaWNhdGlvbnMvYWJvdXQiPlB1YmxpY2F0aW9uczwvYT48L2xpPjwvdWw+PC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iY29sLW1kLTMgY29sLXhzLTEyIj48ZGl2IGNsYXNzPSJmb290ZXItd2lkZ2V0IHR1dGYtd2lkZ2V0Ij48aDQ+VG9vbHM8c3BhbiBjbGFzcz0iaGVhZC1saW5lIj48L3NwYW4+PC9oND48dWw+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9vdGhlci9pY3QvdHV0NGxpZmUvYWJvdXQiPlN0dWRlbnQgRW1haWw8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cDovL2xpYi50dXQuYWMuemEvIj5MaWJyYXJ5PC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vbXl0dXRvci50dXQuYWMuemEvIj5teVRVVG9yPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9vdGhlci9pY3QvZWR1cm9hbS9hYm91dCI+ZWR1cm9hbTwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvZXhhbXMvZXhhbWluYXRpb24tdGltZXRhYmxlLWFuZC1yZXN1bHRzIj5FeGFtIFRpbWV0YWJsZSBhbmQgUmVzdWx0czwvYT48L2xpPjwvdWw+PGg0PkNvbnRhY3QgVXM8c3BhbiBjbGFzcz0iaGVhZC1saW5lIj48L3NwYW4+PC9oND48dWw+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9jb250YWN0LXVzIj5HZW5lcmFsIEVucXVpcmllczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvb3RoZXIvZmFjdWx0aWVzL2NvbnRhY3QtdXMiPkZhY3VsdGllczwvYT48L2xpPjxsaT48YSBocmVmPSJodHRwczovL3d3dy50dXQuYWMuemEvb3RoZXIvY2FtcHVzZXMvYWJvdXQiPkNhbXB1c2VzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vd3d3LnR1dC5hYy56YS9vdGhlci9maW5kLXVzL2Fib3V0Ij5GaW5kIFVzPC9hPjwvbGk+PC91bD48aDQ+V29yayBAIFRVVDxzcGFuIGNsYXNzPSJoZWFkLWxpbmUiPjwvc3Bhbj48L2g0Pjx1bD48bGk+PGEgaHJlZj0iaHR0cHM6Ly9vd2EudHV0LmFjLnphLyI+U3RhZmYgZS1NYWlsPC9hPjwvbGk+PGxpPjxhIGhyZWY9Imh0dHBzOi8vanVwaXRlci50dXQuYWMuemEvIj5TdGFmZiBQb3J0YWw8L2E+PC9saT48bGk+PGEgaHJlZj0iaHR0cHM6Ly93d3cudHV0LmFjLnphL2h1bWFuLXJlc291cmNlcy9hYm91dCI+VmFjYW5jaWVzPC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj5kAhIPZBYCZg9kFgJmDxYCHwEFaTxhIGhyZWY9Ii9fbGF5b3V0cy8xNS9BdXRoZW50aWNhdGUuYXNweD9Tb3VyY2U9aHR0cHMlM2ElMmYlMmZ3d3cudHV0LmFjLnphJTJmd2hhdHMtb24lMmZldmVudHMiPkFkbWluPC9hPmQYAQUuY3RsMDAkUGxhY2VIb2xkZXJNYWluJGN0bDAyJHBWNFF1aWNrTGF1bmNoTWVudQ8PZAUGRXZlbnRzZPLjNYltQ89B1PhTVuCD4eXTN77EUHuytAJK3BoskOVb" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=4yzhlWhs8Zx9SP_UTSmvDKg5UVVJptq0zXj4VE9hn54X6x9qp8QeRLBcZqrlVT-W-S8woqH49MsTxJd2HPaZolfG5a1e8WKOIFsgAFKdh9Y1&amp;t=636403550294818574" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '6329789e-6577-f07c-fab9-c4a299fd889d';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fs-events", webAbsoluteUrl: "https:\u002f\u002fwww.tut.ac.za\u002fs-events", siteAbsoluteUrl: "https:\u002f\u002fwww.tut.ac.za", serverRequestPath: "\u002fs-events\u002fPages\u002fEvents.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Events", webTemplate: "39", tenantAppVersion: "3013015253", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-ZA", clientServerTimeDelta: new Date("2018-07-06T16:25:11.3327782Z") - new Date(), updateFormDigestPageLoaded: new Date("2018-07-06T16:25:11.3327782Z"), siteClientTag: "4909$$16.0.4549.1001", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{e776f82a-900a-446f-aff6-1c7d9b964d5d}",pageItemId:3, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};var L_Menu_BaseUrl="/s-events";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69473024,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); //]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=CIQyDFmRXo2bPGxA1OM3tQ%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fs-events', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4618264A" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+<div data-name="SecurityTrimmedAuthenticated">
+    
+</div>
+<div>
+	<div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex"><a id="linkTurnOnAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">Turn on more accessible mode</a></div><div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex"><a id="linkTurnOffAcc" href="#" class="ms-accessible ms-acc-button" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">Turn off more accessible mode</a></div>
+</div>
+<div id="ms-designer-ribbon" style="display:none;">
+    <div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+</div>
+
+<div id="s4-workspace">
+    <div id="s4-bodyContainer">
+        <!-- Full Body Container -->
+        <div id="container">
+            <!-- Header Section start-->
+            <header id="header" class="alt clearfix">
+                <div class="tut-lgo-outer">
+                    <a href="/"><span id="tut-lgo-inner"></span></a>
+                </div>
+                <nav id="nav">
+                    <ul>
+                        <li>
+                            <a href="/search/simple" class="extraMenu"><i class="fa fa-search" aria-hidden="true"></i><span class="tutsearchtext"> Search</span></a>
+                        </li>
+                        <li>
+                            <!--<a href="/exams/about" class="apply_now_main extraMenu" style="color:#fff">&nbsp;&nbsp;&nbsp;Exams&nbsp;&nbsp;&nbsp;</a>-->
+                            <!--<a target="_blank" href="https://ipenabler.tut.ac.za/pls/prodi03/w99pkg.mi_login" class="apply_now_main extraMenu" style="color:#fff">Registration</a>-->
+                            <!--<a target="_blank" href="https://www.tut.ac.za/study-at-tut/i-want-to-study/online-applications" class="apply_now_main extraMenu" style="color:#fff">Apply Now</a>-->
+                            <a target="_blank" href="https://ipenabler.tut.ac.za/pls/prodi03/gen.gw1pkg.gw1startup?x_processcode=ITS_OAP" class="apply_now_main extraMenu" style="color:#fff">Apply Now</a>
+                        </li>
+                        <li class="special">
+                            <a href="#tmenu" class="menuToggle"><span>Menu</span></a>
+<div id="tmenu">
+	
+
+<span>
+
+<ul id="menu_subs">
+<li><a href="/home" >Home</a>
+</li><li>
+<div>Faculties</div><ul class="main_menu_links">
+<li><a href="/study-at-tut/i-want-to-study/what-to-study/prospectus" >What can I study?</a></li><li><a href="/faculties/management/departments/business-school/about" >Business School</a></li><li><a href="/faculties/economics/about" >Economics and Finance</a></li><li><a href="/faculties/engineering/about" >Engineering and the Built Environment</a></li><li><a href="/faculties/humanities/about" >Humanities</a></li><li><a href="/faculties/ict/about" >ICT</a></li><li><a href="/faculties/management/about" >Management Sciences</a></li><li><a href="/faculties/science/about" >Science</a></li><li><a href="/faculties/the-arts/about" >The Arts</a></li><li><a href="/other/campuses/about" >Campuses</a></li></ul></li><li><a href="/other/campuses/about" >Campuses</a>
+</li><li>
+<div>Study at TUT</div><ul class="main_menu_links">
+<li><a href="/study-at-tut/i-want-to-study/prospective" >I want to study</a></li><li><a href="/study-at-tut/i-am-a-student/undergraduate" >I am a student</a></li><li><a href="/study-at-tut/i-am-a-postgraduate/Postgraduate" >I am a postgraduate</a></li><li><a href="/rni/post-graduate/about" >I am a post doctorate</a></li><li><a href="/study-at-tut/international-student/about" >I am an International Student</a></li><li><a href="/other/SLPs/about" >Short Learning Programmes</a></li><li><a href="/heds/about" >Curriculum Innovation and Student Success</a></li><li><a href="/saed/about" >Student Life</a></li><li><a href="/saed/sports/about" >Sport @ TUT</a></li><li><a href="/saed/arlc/about" >Where to stay</a></li><li><a href="/faculties/humanities/departments/distance-ed/about" >Distance Education</a></li></ul></li><li><a href="/rni/about" >Research and Innovation</a>
+</li><li><a href="/alumni-tut/about" >Alumni @ TUT</a>
+</li><li><a href="/community/about" >Community Engagement</a>
+</li><li><a href="/industry/about" >Industry</a>
+</li><li><a href="/news-and-press/news" >News and Press</a>
+</li><li>
+<div>What's On</div><ul class="main_menu_links">
+<li><a href="/faculties/the-arts/breytenbach-theatre/events" >Breytenbach Theatre</a></li><li><a href="/whats-on/events" >Events</a></li></ul></li><li><a href="/contact-us" >Contact Us</a>
+</li></ul>
+</span>
+
+
+</div>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- End Header Logo &#38; Naviagtion -->
+            </header>
+            <!-- End Header Section -->
+            <!-- spacer to move content below header -->
+            <span><div style="height:55px"></div></span>
+                <div data-name="ContentPlaceHolderMain">
+                    <span id="DeltaPlaceHolderMain">
+                        
+
+<style type="text/css">
+.page-banner { background: url(/BannerImages/defaultstandard.jpg) center; background-color: darkgrey;} 
+@media screen and (max-width:500px){
+.page-banner { background: url(/BannerImages/_w/defaultstandard_jpg.jpg) center;background-repeat:no-repeat;background-size:cover;}
+}  
+.page-banner h2 { color:white;}
+.breadcrumbs ul li a { color:white;}
+.page-banner-olayer { z-index: 5;background-color:rgba(0, 0, 0, 0.10);padding:30px 0;}
+</style>
+<!-- Start Page Banner -->
+<div class="page-banner no-subtitle">
+    <div class="page-banner-olayer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h2>TUT Events</h2>
+          </div>
+          <div class="col-md-6">
+            <ul class="tdbreadcrumbs"><li><a href="https://www.tut.ac.za">TUT</a></li><li><a href="/whats-on/events">What's On</a></li><li><a>Events</a></li></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+<!-- End Page Banner -->
+
+   <!-- Start Content -->
+    <!-- spacer to move content below header -->   
+    <div style="height:35px"></div>
+<div class="container">
+
+    <div class="row sidebar-page">
+    <!--Sidebar-->
+      <div class="col-md-3 sidebar right-sidebar">
+        <!-- Categories Widget -->
+        <div class="widget widget-categories">
+            <span id="ctl00_PlaceHolderMain_ctl02_TrimmedControl1">
+    
+    <div id="zz1_pV4QuickLaunchMenu" class="TUTSideMenu ms-core-listMenu-verticalBox">
+	<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+		<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/faculties/the-arts/breytenbach-theatre/events"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Breytenbach Theatre</span></span></a></li><li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" href="/whats-on/events"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">Events</span><span class="ms-hidden">Currently selected</span></span></a></li>
+	</ul>
+</div>
+
+        
+
+</span>
+<script src="/_catalogs/masterpage/TUT/js/tut/sidemenu-anon.js" type="text/javascript"></script>
+
+
+
+
+
+        </div>
+      </div>
+      <!--End sidebar-->        
+      <!-- Page Content -->
+      <div class="col-md-6 blog-box">
+			<div class="blog-post gallery-post">
+				
+<style>
+    .post-row {
+        min-height:71px;
+    }
+    .post-date {
+        background-color:#b91329 !important;
+    }
+</style>			
+<div class="latest-posts-classic">
+<div class="row"><div class="news-year-div">June 2018</div></div>
+<div class="post-row">    <div class="left-meta-post">    <div class="post-date" ><span class="day">05</span><span class="month">Jun</span></div>    </div>    <h3 class="post-title"><a href="/whats-on/events/event?NID=23">2018 Running Club</a></h3><ul class="post-meta">    <li>05 June 2018</li>    <li>19 September 2018</li></ul>    <div class="post-content"><a class="nostylelink" href="/whats-on/events/event?NID=23">2018 Membership NOW OPEN </a>    </div></div><div class="post-row">    <div class="left-meta-post">    <div class="post-date" ><span class="day">25</span><span class="month">Jun</span></div>    </div>    <h3 class="post-title"><a href="/whats-on/events/event?NID=40">HELLO</a></h3><ul class="post-meta">    <li>25 June 2018</li>    <li>13 July 2018</li></ul>    <div class="post-content"><a class="nostylelink" href="/whats-on/events/event?NID=40">Call for submissions</a>    </div></div><div class="row"><div class="news-year-div">July 2018</div></div>
+<div class="post-row">    <div class="left-meta-post">    <div class="post-date" ><span class="day">05</span><span class="month">Jul</span></div>    </div>    <h3 class="post-title"><a href="/whats-on/events/event?NID=43">Mandela Day 2018</a></h3><ul class="post-meta">    <li>05 July 2018</li>    <li>25 July 2018</li></ul>    <div class="post-content"><a class="nostylelink" href="/whats-on/events/event?NID=43">TAKE ACTION, INSPIRE CHANGE, MAKE EVERYDAY A MANDELA DAY!</a>    </div></div><div class="post-row">    <div class="left-meta-post">    <div class="post-date" ><span class="day">10</span><span class="month">Jul</span></div>    </div>    <h3 class="post-title"><a href="/whats-on/events/event?NID=41">Fine & Applied Arts Winter Workshop </a></h3><ul class="post-meta">    <li>10 July 2018</li>    <li>10 July 2018</li></ul>    <div class="post-content"><a class="nostylelink" href="/whats-on/events/event?NID=41">The Department of Fine and Applied Arts would like to invite you to a Winter Workshop in which you can explore a number of disciplines offered by the department.  </a>    </div></div><div class="row"><div class="news-year-div">August 2018</div></div>
+<div class="post-row">    <div class="left-meta-post">    <div class="post-date" ><span class="day">16</span><span class="month">Aug</span></div>    </div>    <h3 class="post-title"><a href="/whats-on/events/event?NID=42">Book Launch</a></h3><ul class="post-meta">    <li>16 August 2018</li>    <li>16 August 2018</li></ul>    <div class="post-content"><a class="nostylelink" href="/whats-on/events/event?NID=42">"THE LAND IS OURS"</a>    </div></div></div>
+
+
+			</div>
+        <!-- Divider -->
+        <div class="hr5" style="margin-top:30px; margin-bottom:45px;"></div>
+      </div>
+          <!-- Sidebar -->
+          <div class="col-md-3 sidebar right-sidebar">
+            <!-- Tags Widget -->
+			
+<div class="widget widget-tags">
+<h4>Categories <span class="head-line"></span></h4>
+<div class="tagcloud">
+ <a href="/whats-on/events?Cat=Academic">Academic</a>
+ <a href="/whats-on/events?Cat=Community+Engagement">Community Engagement</a>
+ <a href="/whats-on/events?Cat=Performing+Arts">Performing Arts</a>
+ <a href="/whats-on/events?Cat=Science">Science</a>
+ <a href="/whats-on/events?Cat=Sport">Sport</a>
+
+</div>
+</div>
+
+          </div>
+          <!--End sidebar-->
+      
+      <!-- End Page Content-->          
+    </div>
+</div>
+
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu></div>
+                    </span>
+                </div>
+            <!-- Start Footer Section -->
+            <footer class="footer">
+                <div class="container">
+                    <!-- start of footer links -->
+<div class="row footer-widgets">
+<nav>
+<!-- Start Subscribe &#38; Social Links Widget -->
+<div class="col-md-3 col-xs-12">
+    <!--start of social widgets -->
+    <div class="footer-widget social-widget">
+        <h4>Follow Us<span class="head-line"></span></h4>
+        <ul class="social-icons">
+            <li><a class="facebook" href="https://www.facebook.com/TUTCommunications"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="twitter" href="https://twitter.com/official_tut"><i class="fa fa-twitter"></i></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/channel/UCD4jxDpRYTarILQjtsEQv9Q?view_as=subscriber"><i class="fa fa-youtube-play"></i></a></li>
+        </ul>
+    </div>
+</div>
+<!-- end of social links widget -->
+<div id="footer-links">
+<div class="col-md-3 col-xs-12"><div class="footer-widget tutf-widget"><h4>Information For<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/alumni-tut/about">Alumni</a></li><li><a href="https://www.tut.ac.za/apo/about">Donors &amp; Projects</a></li><li><a href="https://www.tut.ac.za/bursaries-and-loans/about">Bursaries and Loans</a></li><li><a href="https://www.tut.ac.za/study-at-tut/i-want-to-study/what-to-study/prospectus">What can I study?</a></li><li><a href="https://www.tut.ac.za/other/parents/about">Parents</a></li><li><a href="https://www.tut.ac.za/cam/about">Media</a></li><li><a href="https://www.tut.ac.za/other/tnb/tenders">Tenders</a></li><li><a href="https://www.tut.ac.za/other/fraud-hotline/contact-us">Fraud Hotline</a></li><li><a href="https://www.tut.ac.za/graduations/about">Graduations</a></li><li><a href="https://www.tut.ac.za/saed/arlc/about">Where to Stay</a></li><li><a href="https://www.tut.ac.za/recruitment/about">Student Recruitment</a></li><li><a href="https://www.tut.ac.za/other/convocation/about">Convocation</a></li><li><a href="https://www.tut.ac.za/cam/group-bookings">Campus Visit - Group Bookings</a></li><li><a href="https://www.tut.ac.za/other/ombudsman/about">Ombuds Office</a></li><li><a href="https://www.tut.ac.za/heds/about">Curriculum Innovation and Student Success</a></li></ul></div></div><div class="col-md-3 col-xs-12"><div class="footer-widget tutf-widget"><h4>About TUT<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/about-tut/council">Council</a></li><li><a href="https://www.tut.ac.za/about-tut/management">Executive Management Committee</a></li><li><a href="https://www.tut.ac.za/about-tut/deans">Executive Deans</a></li><li><a href="https://www.tut.ac.za/about-tut/campus-rectors">Campus Rectors</a></li><li><a href="https://www.tut.ac.za/about-tut/mission">Mission, vision and values</a></li><li><a href="https://www.tut.ac.za/cam/about">Corporate Affairs and Marketing</a></li><li><a href="https://www.tut.ac.za/Documents/2018/Transformation-Framework.pdf">TUT Transformation Framework</a></li><li><a href="https://www.tut.ac.za/apo/about">Advancement and Partnerships Office</a></li><li><a href="https://www.tut.ac.za/s-cam/Documents/TUT%20Institutional%20Statute.pdf">Institutional Statute </a></li><li><a href="https://www.tut.ac.za/other/bdu/about">Business Development Unit</a></li></ul><h4>Calendar and Events<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/faculties/the-arts/breytenbach-theatre/about">Breytenbach Theatre</a></li><li><a href="https://www.tut.ac.za/whats-on/events">What’s On</a></li><li><a href="https://www.tut.ac.za/s-registrar/Documents/Core%20Calendar.pdf">Academic Calendar</a></li></ul><h4>News and Press<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/news-and-press/news">News</a></li><li><a href="https://www.tut.ac.za/publications/about">Publications</a></li></ul></div></div><div class="col-md-3 col-xs-12"><div class="footer-widget tutf-widget"><h4>Tools<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/other/ict/tut4life/about">Student Email</a></li><li><a href="http://lib.tut.ac.za/">Library</a></li><li><a href="https://mytutor.tut.ac.za/">myTUTor</a></li><li><a href="https://www.tut.ac.za/other/ict/eduroam/about">eduroam</a></li><li><a href="https://www.tut.ac.za/exams/examination-timetable-and-results">Exam Timetable and Results</a></li></ul><h4>Contact Us<span class="head-line"></span></h4><ul><li><a href="https://www.tut.ac.za/contact-us">General Enquiries</a></li><li><a href="https://www.tut.ac.za/other/faculties/contact-us">Faculties</a></li><li><a href="https://www.tut.ac.za/other/campuses/about">Campuses</a></li><li><a href="https://www.tut.ac.za/other/find-us/about">Find Us</a></li></ul><h4>Work @ TUT<span class="head-line"></span></h4><ul><li><a href="https://owa.tut.ac.za/">Staff e-Mail</a></li><li><a href="https://jupiter.tut.ac.za/">Staff Portal</a></li><li><a href="https://www.tut.ac.za/human-resources/about">Vacancies</a></li></ul></div></div>
+
+</div>
+</nav>
+</div>
+                    <!-- end of footer links -->
+                    <!-- .row -->
+                    <!--  Start Copyright -->
+                    <div class="copyright-section">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p>&#169; <span id="TUTCopyYear"></span> TUT - All Rights Reserved</p>
+                                <script type="text/javascript">
+                                    var tut_cpryear = document.getElementById("TUTCopyYear");
+                                    if(tut_cpryear != null)
+                                    {
+                                        tut_cpryear.innerHTML = tutDateYear.toString();                                      	
+                                    }
+                                </script>
+                            </div>
+                            <!-- .col-md-6 -->
+                            <div class="col-md-6">
+                            <nav>
+                                <ul class="footer-nav">
+                                    <li>
+                                        <a href="/other/disclaimers/terms-and-conditions">Privacy Policy</a>
+                                    </li>
+                                    <li>
+                                        <a href="/contact-us">Contact</a>
+                                    </li>
+                                    <li>
+                                        <span><a href="/_layouts/15/Authenticate.aspx?Source=https%3a%2f%2fwww.tut.ac.za%2fwhats-on%2fevents">Admin</a>
+</span>
+                                    </li>
+                                </ul>
+                               </nav>
+                            </div>
+                            <!-- .col-md-6 -->
+                        </div>
+                        <!-- .row -->
+                    </div>
+                    <!-- End Copyright -->
+                </div>
+            </footer>
+            <!-- End Footer Section -->
+        </div>
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/js/tut/menu.js">//<![CDATA[
+//]]></script>
+    </div>
+</div>
+    <div id="DeltaFormDigest">
+<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xAF2D42519D08CB5C242AEAB1C84118B91A440ED4F55AD74FE815A4CD001DFAA960B4359E57414F690ADFDBE7A30A54E627481E95F5C49957AE991B4EAC9C89F2,06 Jul 2018 16:25:11 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{e776f82a-900a-446f-aff6-1c7d9b964d5d}",itemId: 3,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fs-events\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+g_QuickLaunchControlIds.push("zz1_pV4QuickLaunchMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_pV4QuickLaunchMenu = null; function init_zz1_pV4QuickLaunchMenu() { if (g_zz1_pV4QuickLaunchMenu == null) g_zz1_pV4QuickLaunchMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_pV4QuickLaunchMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz1_pV4QuickLaunchMenu, 'SP.Core.js');
+//]]>
+</script>
+</form><span id="DeltaPlaceHolderUtilityContent"></span>
+    <!-- Go To Top Link -->
+<a href="#" class="back-to-top-"><i class="fa fa-angle-up"></i></a>
+<!-- end of full body container -->
+<script type="text/javascript" src="/_catalogs/masterpage/TUT/js/land_script.js">//<![CDATA[
+//]]></script>
+<script src="/_catalogs/masterpage/TUT/js/tut/util.js">//<![CDATA[        
+//]]></script>
+</body>
+</html>
